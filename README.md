@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author-Shamika Diwan
+Author-Shamika Diwan(Student)
